@@ -21,9 +21,9 @@
 - I've been coding for 7 months and i fw it fr
 
 ### Statistics:
-![trophy](https://github-profile-trophy.vercel.app/?username=wizzable&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=wizzable&theme=gruvbox)
 
-![stats](https://github-readme-stats.vercel.app/api?username=wizzable&show_icons=true&theme=dark) 
+![stats](https://github-readme-stats.vercel.app/api?username=wizzable&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzable&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 # 
