@@ -28,3 +28,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzable&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 # 
 <h1 align="center"><a href="https://discord.gg/gucci">Loopy#0001 | raze#0006</a></h1>
+<p align="center">
+  <a href="http://discord.gg/gucci">
+    <img src="https://discord.c99.nl/widget/theme-2/872558723242029097.png"/>
+    <img src="https://https://discord.c99.nl/widget/theme-2/696043986917523556.png"/>
+     </a>
+</p>
