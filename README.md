@@ -31,6 +31,5 @@
 <p align="center">
   <a href="http://discord.gg/gucci">
     <img src="https://discord.c99.nl/widget/theme-2/872558723242029097.png"/>
-    <img src="https://https://discord.c99.nl/widget/theme-2/696043986917523556.png"/>
      </a>
 </p>
