@@ -20,7 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzable&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-# Cord 
 <h1 align="center"><a href="https://discord.gg/gucci">Loopy#0001 | raze#0006</a></h1>
 <p align="center">
   <a href="http://discord.gg/gucci">
