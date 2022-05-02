@@ -10,9 +10,8 @@
 
 
 # About me
-- Im a semi decent python dev named Loopy whos 95 yrs old
+- Im a semi decent python dev named Loopy
 - I post my mid code on here for the world to see bc idc
-- I've been coding for 7 months and i fw it fr
 
 ### Statistics:
 ![trophy](https://github-profile-trophy.vercel.app/?username=wizzable&theme=gruvbox)
@@ -20,7 +19,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=wizzable&show_icons=true&theme=dark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzable&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-# 
+
+# Cord 
 <h1 align="center"><a href="https://discord.gg/gucci">Loopy#0001 | raze#0006</a></h1>
 <p align="center">
   <a href="http://discord.gg/gucci">
