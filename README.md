@@ -8,14 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Veil&theme=dark)](https://github.com/Wizzable/Veil)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Discord-AntiNuke&theme=dark)](https://github.com/Wizzable/Discord-AntiNuke)
 
-# Contributions ig
-
-<p align="center">
-  <a href="http://discord.gg/gucci">
-    <img src="https://github.com/wizzable/wizzable/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-  </a>
-</p>
-
 # About me
 - Im a semi decent python dev named Loopy
 - I post my mid code on here for the world to see bc idc
