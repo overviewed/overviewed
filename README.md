@@ -8,17 +8,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Veil&theme=dark)](https://github.com/Wizzable/Veil)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Discord-AntiNuke&theme=dark)](https://github.com/Wizzable/Discord-AntiNuke)
 
+# Contributions ig
+
+<p align="center">
+  <a href="http://discord.gg/gucci">
+    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+  </a>
+</p>
 
 # About me
 - Im a semi decent python dev named Loopy
 - I post my mid code on here for the world to see bc idc
-
-### Statistics:
-![trophy](https://github-profile-trophy.vercel.app/?username=wizzable&theme=gruvbox)
-
-![stats](https://github-readme-stats.vercel.app/api?username=wizzable&show_icons=true&theme=dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzable&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <h1 align="center"><a href="https://discord.gg/gucci">Loopy#0001 | raze#0006</a></h1>
 <p align="center">
