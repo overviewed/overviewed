@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="http://discord.gg/gucci">
-    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+    <img src="https://github.com/wizzable/wizzable/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
   </a>
 </p>
 
