@@ -3,7 +3,7 @@
 <p align="center"><b>if you skid any of my shit i will personally turn ur ass inside out</b></p>
 
 # Views
-(https://komarev.com/ghpvc/?username=wizzable&color=blueviolet&style=flat&label=Visitor)
+![Views](https://komarev.com/ghpvc/?username=wizzable&color=blueviolet&style=flat&label=views)
 
 # Top Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=xyla-multi-tool&theme=dark)](https://github.com/Wizzable/xyla-multi-tool)
