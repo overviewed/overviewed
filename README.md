@@ -5,12 +5,6 @@
 # Views
 ![Views](https://komarev.com/ghpvc/?username=wizzable&color=blueviolet&style=flat&label=views)
 
-# Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=xyla-multi-tool&theme=dark)](https://github.com/Wizzable/xyla-multi-tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Clap&theme=dark)](https://github.com/Wizzable/Clap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Veil&theme=dark)](https://github.com/Wizzable/Veil)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizzable&repo=Discord-AntiNuke&theme=dark)](https://github.com/Wizzable/Discord-AntiNuke)
-
 # About me
 - Im a semi decent python dev named Loopy
 - I post my mid code on here for the world to see bc idc
